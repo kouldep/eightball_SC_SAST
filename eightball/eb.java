@@ -11,6 +11,5 @@ public class EightBall {
 		}
 		new FileReader(filename).read(buffer);
 		System.out.println(buffer);
-		System.out.println(buffer);
 	}
 }
